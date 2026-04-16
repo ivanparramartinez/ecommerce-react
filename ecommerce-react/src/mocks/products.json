@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "Camiseta Polo Premium",
+    "description": "Algodón pima 100%, corte slim fit.",
+    "price": 89900,
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+    "category": { "id": "1", "name": "Ropa", "slug": "ropa" },
+    "stock": 12,
+    "slug": "camiseta-polo-premium",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": "2",
+    "name": "Sneakers Urban Runner",
+    "description": "Suela de goma, plantilla memory foam.",
+    "price": 245000,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+    "category": { "id": "2", "name": "Zapatos", "slug": "zapatos" },
+    "stock": 5,
+    "slug": "sneakers-urban-runner",
+    "createdAt": "2024-01-20"
+  },
+  {
+    "id": "3",
+    "name": "Reloj Classic Time",
+    "description": "Caja de acero inoxidable, correa de cuero.",
+    "price": 159900,
+    "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+    "category": { "id": "3", "name": "Accesorios", "slug": "accesorios" },
+    "stock": 8,
+    "slug": "reloj-classic-time",
+    "createdAt": "2024-01-25"
+  },
+  {
+    "id": "4",
+    "name": "Mochila Explorer",
+    "description": "Resistente al agua, compartimento para laptop.",
+    "price": 129900,
+    "imageUrl": "https://images.unsplash.com/photo-1503602642458-232111445657?w=400",
+    "category": { "id": "4", "name": "Bolsos", "slug": "bolsos" },
+    "stock": 10,
+    "slug": "mochila-explorer",
+    "createdAt": "2024-01-30"
+  }
+]
